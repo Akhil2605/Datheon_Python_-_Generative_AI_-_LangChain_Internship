@@ -1,0 +1,44 @@
+# Environments & API Keys
+.env
+.env.*
+!.env.example
+
+# Python Caches & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Vector Stores & Local Databases
+*.faiss
+*.pkl
+chroma_db/
+*.sqlite
+*.db
+
+# Task & Workspace Generated Files
+task3_tool_agent/workspace/downloads/
+task3_tool_agent/workspace/output/
+task3_tool_agent/workspace/temp/
+*.log
+
+# Streamlit Local Cache
+.streamlit/
+
+# OS Artifacts & Editor Configs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+# Root dependencies for Datheon Python Internship Project
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+google-genai>=1.0.0
+openai>=1.40.0
+pypdf>=4.0.0
+langchain-text-splitters>=0.2.0
+faiss-cpu>=1.8.0
+duckduckgo-search>=6.0.0
+streamlit>=1.35.0
+pytest>=8.0.0

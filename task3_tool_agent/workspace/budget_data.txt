@@ -1,0 +1,8 @@
+Q1 Departmental Expense Breakdown:
+- Cloud Compute (AWS/GCP): 4200
+- Software Licenses & Tooling: 1850
+- Third-Party API Credits: 950
+- Hardware Test Rigs: 2300
+
+Total Q1 Approved Allocation: 10000
+Total Remaining Reserve: 700

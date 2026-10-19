@@ -1,0 +1,15 @@
+Maria Garcia
+Austin, Texas
+mgarcia.developer@gmail.com
+
+Self-taught Frontend Developer transitioning to Full Stack.
+Passionate about building responsive, accessible web interfaces.
+
+Skills: React, JavaScript, HTML, CSS, TailwindCSS, Node.js, Git
+
+Projects:
+- Personal Finance Tracker: React dashboard with interactive charts and local storage.
+- Recipe Finder App: Consumes open recipe APIs with ingredient filtering.
+
+Education:
+Austin Community College - Associate of Applied Science in Web Development (2022)

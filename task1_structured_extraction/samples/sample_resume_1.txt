@@ -1,0 +1,34 @@
+ALEXANDER CHEN
+Seattle, WA | alex.chen@devmail.org | (206) 555-0142
+LinkedIn: https://linkedin.com/in/alexanderchen-dev | Portfolio: https://alexchen.codes
+
+PROFESSIONAL SUMMARY
+Senior Machine Learning & Backend Engineer with 6+ years of experience building high-scale Python microservices, LLM inference pipelines, and distributed vector retrieval engines. Proven track record leading cloud deployments processing 10M+ daily requests.
+
+WORK EXPERIENCE
+Senior AI Engineer | NeuralScale Technologies, Seattle, WA
+March 2022 – Present
+- Architected enterprise RAG retrieval pipeline with FAISS and hybrid dense/sparse search, improving retrieval accuracy by 34%.
+- Led containerized Kubernetes deployment for vLLM inference clusters, reducing average p99 response time from 1.2s to 380ms.
+- Mentored 4 junior engineers on test-driven development, code reviews, and schema contract design.
+
+Software Engineer | Apex FinTech Labs, Bellevue, WA
+June 2018 – February 2022
+- Developed event-driven ledger microservices handling $40M+ in daily transaction volume with Python, FastAPI, and Kafka.
+- Reduced database bottleneck incidents by 60% through query optimization and PostgreSQL connection pooling.
+- Designed automated CI/CD test pipelines achieving 94% code coverage across all core services.
+
+EDUCATION
+University of Washington, Seattle, WA
+Bachelor of Science in Computer Science & Engineering
+Graduated: June 2018 | GPA: 3.85 / 4.0
+
+TECHNICAL SKILLS
+Languages: Python, Go, SQL, TypeScript, Bash
+AI / ML: LangChain, LlamaIndex, PyTorch, FAISS, Hugging Face Transformers, OpenAI API, Gemini API
+Cloud & Infrastructure: AWS (ECS, S3, RDS), Docker, Kubernetes, GitHub Actions, Terraform
+Databases: PostgreSQL, Redis, MongoDB, ChromaDB
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2023)
+- DeepLearning.AI Generative AI with LLMs (2024)
